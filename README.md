@@ -2,4 +2,5 @@
 
 ## This sub-heading is included with student name, my image and about me.
 
-* Lastly, section is mentioned with ID
+## Contact Info
+* The section is mentioned with us and li with ID.
