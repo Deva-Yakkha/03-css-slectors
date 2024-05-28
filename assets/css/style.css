@@ -7,7 +7,7 @@ body {
     background-color: antiquewhite;
 }
 
-
+/* Style for header and footer elements */
 header,
 footer {
     width: 100%;
@@ -17,17 +17,18 @@ footer {
     background-color: seagreen
 }
 
+/* Style for figure elements */
 figure {
     width: 200px;
     background-color: antiquewhite;
 }
 
-/* Class selector */
+/* Style for elements with the class "highlighted-text" */
 highlighted-text {
     font-weight: bolder;
 }
 
-/* ID selector */
+/* Style for the element with ID "contact-section" */
 #contact-section {
     background-color: antiquewhite;
 }
